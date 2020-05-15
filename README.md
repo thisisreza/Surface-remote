@@ -11,6 +11,8 @@ Surface Remote project
 
 ## TODO:
 
++Timer for recording
+
 +Upload button
 
 +Upload backend 
