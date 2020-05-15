@@ -11,7 +11,7 @@ Surface Remote project
 
 ## TODO:
 
-+Timer for recording
++Countdown for recording
 
 +Upload button
 
