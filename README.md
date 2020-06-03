@@ -45,7 +45,7 @@ Surface Remote project
 
 ~~Upload button~~
 
-~~Upload backend ~~
+~~Upload backend~~
 
 ~~Upload Server (DB+API+Apache/Python)~~
 
