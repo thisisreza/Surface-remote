@@ -1,6 +1,12 @@
 # Surface-remote 
 Surface Remote project
 
+ ## Apk V0.7
+ 
++ New play button
++ Added Uploading file to the webserver
++ Improve the the Recorded video section 
+
  ## Apk V0.5
  
 + New Recording / Stopping Video
@@ -25,15 +31,22 @@ Surface Remote project
 +Delete recorded Videos
 
 ## TODO:
++ Questionnaire section
 
-+Countdown for recording
++ Add a voice to the countdown
 
-+Upload button
++ Confirm Delete
 
-+Upload backend 
++ Check the Internet connection
 
-+Upload Server (DB+API+Apache/Python)
++ Check the status of the videos + add the info to the videos 
 
-+Questionnaire section
+~~Countdown for recording~~
 
-+Improve the UI
+~~Upload button~~
+
+~~Upload backend ~~
+
+~~Upload Server (DB+API+Apache/Python)~~
+
+~~Improve the UI~~
