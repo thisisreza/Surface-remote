@@ -1,6 +1,26 @@
 # Surface-remote 
 Surface Remote project
 
+ ## Apk V0.8
++  landscape feature
+
++  sound to the countdown
+
++ unique ID for each user
+
++ New player 
+
++ close button for player
+
++ change the size of the player bug
+
++ solved Recording feedback bug
+
++ solved Low contrast text bug
+
++ solved Aborted exit breaks playback and recording bug
+
+
  ## Apk V0.7
  
 + New play button
