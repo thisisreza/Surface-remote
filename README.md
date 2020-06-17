@@ -1,6 +1,17 @@
 # Surface-remote 
 Surface Remote project
 
+## Apk V0.9
+
++ New UI for uploading.
+
++ Replaced Visual countdown with Audio countdown.
+
++ The error for username activity solved.
+
++ enhanced the player.
+
+
  ## Apk V0.8
 +  landscape feature
 
