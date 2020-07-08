@@ -1,6 +1,15 @@
 # Surface-remote 
 Surface Remote project
 
+## Apk V1.0 and 1.1
+
++ Gesture recognition panel
++ Adding Json File control system
++ Changed the Camera module to front-face
++ Add sequence recording for each task
+
+
+
 ## Apk V0.9
 
 + New UI for uploading.
